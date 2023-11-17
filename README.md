@@ -6,3 +6,8 @@
 
 6. git reset (--hard) (убрать изменения)
 7. git diff (просмотр изменений)
+
+master
+develop
+feature/main-page
+feature/about-company
